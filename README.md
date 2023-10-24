@@ -1,2 +1,2 @@
-# Examination-Management-System
+# Examination and Quiz Management-System
 Java Project
