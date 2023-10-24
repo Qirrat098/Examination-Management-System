@@ -1,0 +1,7 @@
+Database Management System Theory (DBT-2001),DBT-2001,qirat
+Database Management System Lab (DBL-2001),DBL-2001,qirat
+Object Oriented Programming Theory (OOPT-2002),OOPT-2002,qirat
+Object Oriented Programming Lab (OOPL-2002),OOPL-2002,qirat
+Operating System Lab (OSL-2003),OSL-2003,qirat
+Operating System Theory(OST-2003),OST-2003,qirat
+Software Design and Architecture (SDA-2004),SDA-2004,qirat
